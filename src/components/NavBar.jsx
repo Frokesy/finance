@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebook, FaGoogle, FaInstagram, FaTwitter } from 'react-icons/fa'
+import { FaFacebook, FaGlobe, FaInstagram, FaTwitter } from 'react-icons/fa'
 
 const NavBar = () => {
   return (
@@ -19,7 +19,7 @@ const NavBar = () => {
         <FaFacebook />
         <FaTwitter  />
         <FaInstagram />
-        <FaGoogle />
+        <FaGlobe />
       </div>
     </div>
   )
