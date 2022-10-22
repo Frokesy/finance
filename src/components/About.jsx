@@ -23,9 +23,9 @@ const About = () => {
                         </div>
                     </div>
                 </div>
-                <div className="relative w-[55%] flex justify-end">
-                <div className="w-[70%] h-[70%] bg-[#036632] absolute right-30 top-[12vh] rounded-br-3xl"></div>
-                <img src="/assets/body_img_one.png" alt="body_img_one" className="w-[70%] h-[90%] right-20 relative top-0" />
+                <div className="relative w-[55%] flex justify-end h-[50vh]">
+                <div className="w-[70%] h-[80%] bg-[#036632] absolute right-30 top-[12vh] rounded-br-3xl"></div>
+                <img src="/assets/body_img_one.png" alt="body_img_one" className="w-[70%] h-[95%] right-20 relative top-0" />
                 </div>
         </div>
     )

@@ -1,8 +1,8 @@
 const Team = () => {
     return (
-        <div className="w-[80vw] mx-auto mt-[10vh]">
+        <div className="w-[80vw] mx-auto mt-[15vh]">
             <h1 className="text-[#036632] text-[40px] font-semibold mb-6 text-center">Meet The Team</h1>
-            <div className="grid grid-cols-3 gap-x-8 shadow-2xl">
+            <div className="grid grid-cols-3 gap-x-8">
                 <div className="flex flex-col items-center">
                     <img src="/assets/footer_img_one.png" alt="team" className="w-full h-full object-cover rounded-tl-[20%]" />
                     <div className="bg-[#fff] shadow-2xl w-full text-center">
