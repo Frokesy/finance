@@ -3,9 +3,9 @@ import React from 'react'
 const Extra = () => {
     return (
         <div className="w-[80vw] flex justify-between mx-auto mt-[10vh]">
-                <div className="relative w-[50%] h-[70vh]">
-                    <img src="/assets/body_img_two.png" alt="body_img_one" className=" h-[90%] absolute left-[2rem] top-[2.5vh]" />
-                    <div className="w-[75%] h-[90%] bg-[#036632] rounded-tl-3xl "></div>
+                <div className="relative w-[50%] h-[65vh]">
+                    <img src="/assets/body_img_two.png" alt="body_img_one" className="h-[90%] w-[70%] absolute left-[3rem] top-[2.5vh]" />
+                    <div className="w-[60%] h-[85%] bg-[#036632] rounded-tl-3xl "></div>
                 </div>
                 <div className="w-[50%]">
                     <h1 className="text-[#036632] text-[40px] font-semibold">Who we are?</h1>
