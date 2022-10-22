@@ -20,7 +20,7 @@ const Header = () => {
           <button className="bg-[#036632] lg:max-w-[20vw] max-w-[40vw] lg:text-[20px] text-[16px] p-6 uppercase">Get a Quote</button>
         </div>
       </div>
-      <div className="grid grid-cols-4 gap-x-4 w-[80vw] relative -top-10 mx-auto">
+      <div className="grid lg:grid-cols-4 grid-cols-2 lg:gap-y-0 gap-y-8 gap-x-4 lg:w-[80vw] w-[90vw] relative -top-10 mx-auto">
         <Card 
         header="Professional Advice"
         img="vector_one.png"
