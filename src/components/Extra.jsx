@@ -4,7 +4,7 @@ const Extra = () => {
     return (
         <div className="lg:w-[80vw] w-[90vw] flex lg:flex-row flex-col lg:justify-between mx-auto mt-[10vh]">
                 <div className="relative lg:w-[50%] lg:h-[65vh] h-[50vh]">
-                    <img src="/assets/body_img_two.png" alt="body_img_one" className="h-[90%] lg:w-[70%] w-[90%] absolute left-[3rem] top-[2.5vh]" />
+                    <img src="/assets/body_img_two.png" alt="body_img_one" className="h-[90%] lg:w-[70%] w-[90%] absolute lg:left-[3rem] left-[2rem] top-[2.5vh]" />
                     <div className="lg:w-[60%] w-[85%] h-[85%] bg-[#036632] rounded-tl-3xl "></div>
                 </div>
                 <div className="lg:w-[50%]">

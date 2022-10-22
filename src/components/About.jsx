@@ -10,7 +10,7 @@ const About = () => {
                             <img src="/assets/vectors/vector_five.png" alt="vector_five" className="lg:w-[3rem] w-[2rem]" />
                             <div className="flex flex-col -space-y-1">
                             <span className="lg:text-[20px] text-[16px] font-semibold">20</span>
-                            <p>Years of experience</p>
+                            <p className="lg:text-[13px] text-[10px]">Years of experience</p>
                             </div>
                         </div>
 
@@ -18,7 +18,7 @@ const About = () => {
                             <img src="/assets/vectors/vector_six.png" alt="vector_six" className="lg:w-[3rem] w-[2rem]" />
                             <div className="flex flex-col -space-y-1">
                             <span className="lg:text-[20px] text-[16px] font-semibold">45</span>
-                            <p>Team members</p>
+                            <p className="lg:text-[13px] text-[10px]">Team members</p>
                             </div>
                         </div>
                     </div>

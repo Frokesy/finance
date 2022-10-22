@@ -11,7 +11,7 @@ const Services = () => {
                     <button className="bg-[#036632] mt-6 lg:w-[70%] w-[50%] lg:text-[20px] text-[12px] lg:p-3 p-2 text-white uppercase">View All</button>
                 </div>
                 <div className="lg:w-[60%] justify-end">
-                    <div className="grid grid-cols-2 mt-[12vh] lg:gap-x-10 gap-x-4 lg:gap-y-16 gap-y-10 mb-[10vh]">
+                    <div className="grid grid-cols-2 mt-[12vh] lg:gap-x-10 gap-x-2 lg:gap-y-16 gap-y-10 mb-[10vh]">
                         <ServiceCard 
                             header="Investment Planning"
                             img="vector_seven.png"
